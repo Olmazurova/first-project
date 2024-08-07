@@ -1,1 +1,0 @@
-This is training project for work with the Git.
